@@ -1,7 +1,7 @@
 # telegram_profile_auto_change
 using this you can change your telegram profile photo automatically
 
-#install
+# install guid
 
 **WINDOWS CMD**
 
@@ -34,3 +34,8 @@ cd telegram_profile_auto_change
 pip install -r requirements.txt
 python main.py
 ```
+
+# video
+
+** youtube video ** : 
+
