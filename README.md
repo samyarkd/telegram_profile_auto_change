@@ -1,5 +1,5 @@
 # telegram_profile_auto_change
-<img src="https://giphy.com/embed/Eljvoa3wPgJWLdC0un" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://giphy.com/embed/Eljvoa3wPgJWLdC0un" >
 
 using this you can change your telegram profile photo automatically
 
