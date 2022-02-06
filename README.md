@@ -1,7 +1,7 @@
 # telegram_profile_auto_change
 <img src="https://media.giphy.com/media/Eljvoa3wPgJWLdC0un/giphy.gif" >
 
-using this you can change your telegram profile photo automatically
+using this bot you can change your telegram profile photo automatically
 
 # install guid
 
