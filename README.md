@@ -39,5 +39,5 @@ python main.py
 
 # video
 
-**youtube video** : 
+**youtube video** : https://www.youtube.com/watch?v=s07wwaOBzMU&t=15s
 
